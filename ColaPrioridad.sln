@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColaPrioridad", "ColaPrioridad\ColaPrioridad.csproj", "{08BDFC80-5DFD-4A03-991F-1FD8273E5634}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestColaPrioridad", "TestColaPrioridad\TestColaPrioridad.csproj", "{7190FDCE-CE92-4466-8905-A75E2244BBB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08BDFC80-5DFD-4A03-991F-1FD8273E5634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08BDFC80-5DFD-4A03-991F-1FD8273E5634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08BDFC80-5DFD-4A03-991F-1FD8273E5634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08BDFC80-5DFD-4A03-991F-1FD8273E5634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7190FDCE-CE92-4466-8905-A75E2244BBB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7190FDCE-CE92-4466-8905-A75E2244BBB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7190FDCE-CE92-4466-8905-A75E2244BBB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7190FDCE-CE92-4466-8905-A75E2244BBB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
